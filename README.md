@@ -32,9 +32,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akashps30&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashps30&theme=gotham&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&exclude_repo=repository_with_c_code)
 
 
 
