@@ -42,7 +42,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashps30&theme=gotham&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashps30&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&exclude_repo=repository_with_c_code)
 
